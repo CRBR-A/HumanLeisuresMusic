@@ -1,0 +1,16 @@
+## Paul Hardy's Pete Mac Tunebook
+
+This tunebook contains tunes written or extended by Pete Mac, who wishes them to be freely used.
+
+Pete says: "I play piano accordion, melodeon and English Concertina. I ran a folk dance and barn dance band for
+40 years, in Cambridgeshire and then in Devon where I now live. I wrote these tunes for use in the bands, and am
+pleased if others play them. I still lead bands and workshops occasionally, mostly in the Camping and
+Caravanning Club 'Folk Group' which has been a lifetime involvement, and of which I am a founder member."
+
+Original tunebook of 19 October 2023. This version of 8 November 2023.
+
+---
+current:
+  source: <https://pghardy.net/tunebooks/#petemac>
+  license: CC0 Public domain
+...
