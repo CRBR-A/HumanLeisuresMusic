@@ -1,0 +1,38 @@
+%abc
+X:49
+T:Denis's Hornpipe
+R:Hornpipe
+C:Pete Mac 2001
+O:England
+Z:Pete Mac Tunebook 2023 (see https://pghardy.net/tunebooks/).
+Z:Creative Commons CC0 (Public Domain) licenced.
+M:4/4
+L:1/16
+Q:1/4=135
+K:G
+d4|"G"g4 ((3a2g2f2) g4 d4|"C"e3dc3e "G"d8|"Am"c3BA3c "G"B3AG3B|"D7"A3GF3G A4((3d2e2f2)|
+"G"g4 ((3a2g2f2) g4d4|"C"e3dc3e "G"d8|"D7"c3BA3c "G"B3AG3B|"D7"A3GF3A "G"G4:|
+|:^G4|"A"A4 ((3A2A2A2) A4 A3B|"D"A3GF3E D4 z4|"A"A4 ((3A2A2A2) A4 A3B|"D"A3GF3G "D7"A4 d4|
+"G"g4 ((3a2g2f2) g4 d4|"C"e3dc3e "G"d8|"D7"c3BA3G F3E D4|"G"G4 "D7"((3A2G2F2) "G"G4:|
+
+% This tunebook contains tunes written or extended by Pete Mac, who wishes 
+% them to be freely used. Pete says: "I play piano accordion, melodeon and 
+% English Concertina. I ran a folk dance and barn dance band for 40 years, in 
+% Cambridgeshire and then in Devon where I now live. % I wrote these tunes for 
+% use in the bands, and am pleased if others play them. I still lead bands and 
+% workshops occasionally, mostly in the Camping and Caravanning Club 'Folk 
+% Group' which has been a lifetime involvement, and of which I am a founder 
+% member."  
+% The tunes (written between 1988 and 2006) are released under a Creative 
+% Commons Zero licence - CC0 1.0. To view a copy of this license, visit 
+% http://creativecommons.org/publicdomain/zero/1.0. 
+% Through this licence, the author has dedicated the work to the public domain 
+% by waiving all of his rights worldwide under copyright law, including all 
+% related and neighboring rights, to the extent allowed by law.  
+% You can copy, modify, distribute and perform these tunes, even for 
+% commercial purposes, all without asking permission. 
+% Editing, layout and publishing of this Tunebook and its ABC music is by Paul 
+% Hardy (paul@paulhardy.net), who releases his assistance work under the same 
+% CC0 1.0 licence. See https://pghardy.net/tunebooks/ for downloads of this 
+% and more of Paul's tunebooks.
+% Original tunebook of 19 October 2023. This version of 8 November 2023.

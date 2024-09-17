@@ -1,0 +1,38 @@
+%abc
+X:55
+T:Oban Bay
+R:Jig
+% 48-bar Jigs
+C:Trad, extended by Pete Mac 1991
+O:England
+Z:Pete Mac Tunebook 2023 (see https://pghardy.net/tunebooks/).
+Z:Creative Commons CC0 (Public Domain) licenced.
+M:6/8
+L:1/8
+Q:3/8=105
+K:D
+A|"D"f2e dcB|A2F D2E|FGF FED|"A7"F2E E2A|"D"f2e dcB|A2F D2E|FGF "A7"EDE|"D"D3-D2:|
+|: A|"D"d2A A2A|"G"BdB "D"A3|d2d "A7"efg|"D"f3 "A7"e3|"D"d2A A2A|"G"BdB "A7"A2g|"D"f2A "A7"ABc|"D"d3-d2:|
+|: f|"D"afd dfa|"A"gec ceg|"D"fdd dcd|"A7"ecA A2G|"D"FAd FAd|"G"GBd GBd|"A7"Agf edc|"D"d3-d2:|
+
+% This tunebook contains tunes written or extended by Pete Mac, who wishes 
+% them to be freely used. Pete says: "I play piano accordion, melodeon and 
+% English Concertina. I ran a folk dance and barn dance band for 40 years, in 
+% Cambridgeshire and then in Devon where I now live. % I wrote these tunes for 
+% use in the bands, and am pleased if others play them. I still lead bands and 
+% workshops occasionally, mostly in the Camping and Caravanning Club 'Folk 
+% Group' which has been a lifetime involvement, and of which I am a founder 
+% member."  
+% The tunes (written between 1988 and 2006) are released under a Creative 
+% Commons Zero licence - CC0 1.0. To view a copy of this license, visit 
+% http://creativecommons.org/publicdomain/zero/1.0. 
+% Through this licence, the author has dedicated the work to the public domain 
+% by waiving all of his rights worldwide under copyright law, including all 
+% related and neighboring rights, to the extent allowed by law.  
+% You can copy, modify, distribute and perform these tunes, even for 
+% commercial purposes, all without asking permission. 
+% Editing, layout and publishing of this Tunebook and its ABC music is by Paul 
+% Hardy (paul@paulhardy.net), who releases his assistance work under the same 
+% CC0 1.0 licence. See https://pghardy.net/tunebooks/ for downloads of this 
+% and more of Paul's tunebooks.
+% Original tunebook of 19 October 2023. This version of 8 November 2023.

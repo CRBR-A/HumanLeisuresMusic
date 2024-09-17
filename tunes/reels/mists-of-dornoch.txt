@@ -1,0 +1,43 @@
+%abc
+X:54
+T:Mists of Dornoch
+R:Reel
+% 48-bar Reels
+C:Trad, extended by Pete Mac 2006
+O:England
+Z:Pete Mac Tunebook 2023 (see https://pghardy.net/tunebooks/).
+Z:Creative Commons CC0 (Public Domain) licenced.
+M:4/4
+L:1/8
+Q:1/4=195
+K:G
+D2|"G"G4 g4|d3 B A2 G2|"C"cd e2e2e2|"Am"e4 g2e2|"G"d3 B A2 G2|"Em"B4 A2 G2|"A7"FG A2A2A2|"D7"A6 D2|
+"G"G4 g4|d3 B A2 G2|"Am"c2d2e2f2|"C"g4f2e2|"G"d3ed2B2|"D"A3d"Em"B2G2|"C"EFG2"D"G2G2|"G"G4-G4||
+K:D
+"Em"E4 B3 E|d2 E2 B2 E2|E4 B3 E|"D"A2F2D2F2|"Em"E4 B3 E|d2B2A2G2|"A7"B2A2 B2c2|"D"d4D4|
+"Em"E4 B3 E|d2 E2 B2 E2|E4 B3 E|"D"A2F2D2F2|"Em"E4 B3 E|"Bm"d2B2 "Em"A2G2|"C"EFG2 "D"G2G2|"G"G4-G4||
+K:G
+"G"B4B2d2|g4g2b2|d3BA2G2|"Em"B4A2G2|"G"B4B2d2|"Em"g4g2b2|"Bm"d3 B "Em"A2 G2|"Am"A4-"D7"A4|
+"G"G2F2E2D2|"Em"G4A2B2|"Am"c2d2e2f2|"C"g4f2e2|"G"d3ed2g2|d3 B A2 G2|"C"EFG2"D"G2G2|"G"G6|]
+
+% This tunebook contains tunes written or extended by Pete Mac, who wishes 
+% them to be freely used. Pete says: "I play piano accordion, melodeon and 
+% English Concertina. I ran a folk dance and barn dance band for 40 years, in 
+% Cambridgeshire and then in Devon where I now live. % I wrote these tunes for 
+% use in the bands, and am pleased if others play them. I still lead bands and 
+% workshops occasionally, mostly in the Camping and Caravanning Club 'Folk 
+% Group' which has been a lifetime involvement, and of which I am a founder 
+% member."  
+% The tunes (written between 1988 and 2006) are released under a Creative 
+% Commons Zero licence - CC0 1.0. To view a copy of this license, visit 
+% http://creativecommons.org/publicdomain/zero/1.0. 
+% Through this licence, the author has dedicated the work to the public domain 
+% by waiving all of his rights worldwide under copyright law, including all 
+% related and neighboring rights, to the extent allowed by law.  
+% You can copy, modify, distribute and perform these tunes, even for 
+% commercial purposes, all without asking permission. 
+% Editing, layout and publishing of this Tunebook and its ABC music is by Paul 
+% Hardy (paul@paulhardy.net), who releases his assistance work under the same 
+% CC0 1.0 licence. See https://pghardy.net/tunebooks/ for downloads of this 
+% and more of Paul's tunebooks.
+% Original tunebook of 19 October 2023. This version of 8 November 2023.
