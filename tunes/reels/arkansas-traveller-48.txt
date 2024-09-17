@@ -5,6 +5,9 @@ R:Reel
 % 48-bar Reels
 C:Trad, extended by Pete Mac 2008
 O:England
+S:https://pghardy.net/tunebooks/#petemac
+F:https://pghardy.net/tunebooks/pgh_pete_mac_tunebook.abc
+F:https://pghardy.net/tunebooks/pgh_pete_mac_tunebook.pdf
 Z:Pete Mac Tunebook 2023 (see https://pghardy.net/tunebooks/).
 Z:Creative Commons CC0 (Public Domain) licenced.
 M:4/4
